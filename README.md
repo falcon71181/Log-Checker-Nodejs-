@@ -5,5 +5,5 @@ Make folder named logs
 place ur logs in logs folder
 
 ```npm i```
-<br>
+then 
 ```node index.js```
