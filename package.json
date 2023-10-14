@@ -1,0 +1,27 @@
+{
+  "name": "grabber_all_sites",
+  "version": "1.0.0",
+  "description": "RedLine Stealer Logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/falcon71181/Log-Checker-Nodejs-"
+  },
+  "keywords": [
+    "redline",
+    "logpass"
+  ],
+  "author": "falcon71181",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/falcon71181/Log-Checker-Nodejs-"
+  },
+  "homepage": "https://github.com/falcon71181/Log-Checker-Nodejs-",
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "path": "^0.12.7"
+  }
+}
