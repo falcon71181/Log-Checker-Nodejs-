@@ -1,0 +1,27 @@
+{
+  "name": "grabber_all_sites",
+  "version": "1.0.0",
+  "description": "Простой скрипт для логов RedLine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexBennett1337/getAllLogpassFromRedlineLogsStealer.git"
+  },
+  "keywords": [
+    "redline",
+    "logpass"
+  ],
+  "author": "AlexBennett1337",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexBennett1337/getAllLogpassFromRedlineLogsStealer/issues"
+  },
+  "homepage": "https://github.com/AlexBennett1337/getAllLogpassFromRedlineLogsStealer#readme",
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "path": "^0.12.7"
+  }
+}
